@@ -1,0 +1,27 @@
+Problem 1.	Declare Variables
+
+Declare five variables choosing for each of them the most appropriate of the types byte, sbyte, short, ushort, int, uint, long, ulong to represent the following values: 52130, -115, 4825932, 97, -10000. Choose a large enough type for each number to ensure it will fit in it. Try to compile the code. Submit the source code of your Visual Studio project as part of your homework submission.
+
+Problem 2.	Float or Double?
+
+Which of the following values can be assigned to a variable of type float and which to a variable of type double: 34.567839023, 12.345, 8923.1234857, 3456.091? Write a program to assign the numbers in variables and print them to ensure no precision is lost.
+
+Problem 3.	Boolean Variable
+
+Declare a Boolean variable called isFemale and assign an appropriate value corresponding to your gender. Print it on the console.
+
+Problem 4.	Strings and Objects
+
+Declare two string variables and assign them with “Hello” and “World”. Declare an object variable and assign it with the concatenation of the first two variables (mind adding an interval between). Declare a third string variable and initialize it with the value of the object variable (you should perform type casting).
+
+Problem 5.	Employee Data
+
+A marketing company wants to keep record of its employees. Each record would have the following characteristics:
+•	First name
+•	Last name
+•	Age (0...100)
+•	Gender (m or f)
+•	Personal ID number (e.g. 8306112507)
+•	Unique employee number (27560000…27569999)
+
+Declare the variables needed to keep the information for a single employee using appropriate primitive data types. Use descriptive names. Print the data at the console.
