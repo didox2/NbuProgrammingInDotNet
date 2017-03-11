@@ -1,0 +1,6 @@
+1. Install Visual Studio 2015 Community Edition (no need for mobile development tools)
+2. Play with Visual Studio. Create new Solution and Project
+3. Write the Hello, world example from the presentation
+4. Run the application with and without debugger
+
+No need to upload anything to the repository 
