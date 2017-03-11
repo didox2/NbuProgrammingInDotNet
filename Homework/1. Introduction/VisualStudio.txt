@@ -2,5 +2,8 @@
 2. Play with Visual Studio. Create new Solution and Project
 3. Write the Hello, world example from the presentation
 4. Run the application with and without debugger
+5. Open MSDN and read about the Console class
+    https://msdn.microsoft.com/en-us/library/system.console(v=vs.110).aspx
+6. Play with Console.Write and Console.WriteLine
 
 No need to upload anything to the repository 

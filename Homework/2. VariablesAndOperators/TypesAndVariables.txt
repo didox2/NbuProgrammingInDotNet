@@ -34,3 +34,5 @@ A marketing company wants to keep record of its employees. Each record would hav
 
 Declare the variables needed to keep the information for a single employee using appropriate primitive data types. 
 Use descriptive names. Print the data at the console.
+
+HINT: Use Console.Write and Console.WriteLine to output data to the console
