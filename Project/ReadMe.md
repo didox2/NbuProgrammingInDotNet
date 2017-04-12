@@ -27,6 +27,6 @@ Create a web application using ASP.NET MVC 5 and Entity Framework 6. The bussine
     - Use client and server side data validation
     - Use ASP.NET MVC tools for preventing Cross-Site Request Forgery (CSRF) and Cross-Site Scripting (XSS)
 
-8. User interface is out of the scope of current course and won't be taken into account, but you have to create the minimum required interface for your the operation of your application.
+8. User interface is out of the scope of current course and won't be taken into account, but you have to create the minimum required interface for the operation of your application.
 
 
